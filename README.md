@@ -1,4 +1,4 @@
-# Script Documenter
+# IDOC Script Documenter
 
 **Script Documenter** is a modern, offline Python application that uses Azure OpenAI to automatically generate detailed, easy-to-understand documentation for your code and data scripts. It supports Python (`.py`), SQL (`.sql`), XML (`.xml`), and JSON (`.json`) files. The tool is designed for developers, data engineers, and analysts who want to quickly document their scripts with minimal effort.
 
@@ -63,28 +63,11 @@ streamlit run idoc.py
 4. **Download:**  
    Download the generated documentation as a Markdown file for your records or sharing.
 
----
-
-## Example
-
-![Script Documenter Screenshot](docs/screenshot.png)
-
----
 
 ## Walkthrough Video
 
-You can add a walkthrough video by uploading it to a platform like YouTube or Vimeo and embedding it here:
 
-```markdown
-
-### 📺 Walkthrough Video
-
-[![Watch the walkthrough](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-```
-
-Replace `YOUR_VIDEO_ID` with your actual YouTube video ID.
-
-
+https://github.com/user-attachments/assets/ba43f14f-f6f9-4a03-b97e-45a8ade13360
 
 ## Contact
 
