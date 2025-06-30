@@ -1,4 +1,4 @@
-# IDOC Script Documenter
+# Project-IDOC Intelligent Script Documenter
 
 **Script Documenter** is a modern, offline Python application that uses Azure OpenAI to automatically generate detailed, easy-to-understand documentation for your code and data scripts. It supports Python (`.py`), SQL (`.sql`), XML (`.xml`), and JSON (`.json`) files. The tool is designed for developers, data engineers, and analysts who want to quickly document their scripts with minimal effort.
 
