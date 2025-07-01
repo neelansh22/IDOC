@@ -4,7 +4,7 @@
 
 ---
 
-## Walkthrough Video
+## Walkthrough
 
 
 https://github.com/user-attachments/assets/ba43f14f-f6f9-4a03-b97e-45a8ade13360
