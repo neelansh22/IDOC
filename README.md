@@ -4,6 +4,13 @@
 
 ---
 
+## Walkthrough Video
+
+
+https://github.com/user-attachments/assets/ba43f14f-f6f9-4a03-b97e-45a8ade13360
+
+
+
 ## Features
 
 - **Automatic Documentation:** Generate markdown documentation for Python, SQL, XML, and JSON scripts using Azure OpenAI.
@@ -63,11 +70,6 @@ streamlit run idoc.py
 4. **Download:**  
    Download the generated documentation as a Markdown file for your records or sharing.
 
-
-## Walkthrough Video
-
-
-https://github.com/user-attachments/assets/ba43f14f-f6f9-4a03-b97e-45a8ade13360
 
 ## Contact
 
